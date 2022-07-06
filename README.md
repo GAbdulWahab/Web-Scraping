@@ -4,3 +4,4 @@ useing
 - selenium 
 - Beautifulsoup
 - scrapy
+- Requests
